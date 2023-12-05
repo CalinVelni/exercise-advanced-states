@@ -1,0 +1,5 @@
+Un componente per la lista degli invitati ad una festa.
+Inizialmente la lista è vuota. L'utente puo inserire invitati alla lista tramite un input
+(similmente a come abbiamo visto a lezione con la lista della spesa).
+Per ogni invitato, ci sono un bottone elimina e un bottone saluta, che mostra un saluto
+all'invitato in fondo al documento.
